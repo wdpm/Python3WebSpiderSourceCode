@@ -1,0 +1,20 @@
+{
+  "name": "learn-ast",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "babel-node $1"
+  },
+  "author": "Germey",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/generator": "^7.21.5",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.15.0"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^2.15.4"
+  }
+}

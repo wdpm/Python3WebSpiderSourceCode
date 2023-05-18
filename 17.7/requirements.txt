@@ -1,0 +1,4 @@
+scrapy
+aiohttp
+scrapy-redis
+environs
